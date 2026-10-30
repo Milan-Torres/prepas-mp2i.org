@@ -1,19 +1,19 @@
 ---
 title: Forum 2025 des étudiants en MP2I/MPI
-url: /forum
 slug: forum-2025
 date: 2025-01-24T20:42:00+01:00
 author: Triw
-summary: Page de présentation du forum 2025. Vous y trouverez toutes les informations concernant le forum de la filière MPI-MP2I, édition 2025.
-menu:
-    main:
-        name: Forum
-        weight: 5
+summary: Le forum 2025 est terminé ! Cette année, plus de 50 lycéens et parents d'élèves ont pu être informés grâce au forum !
 tags:
     - lycéens
 categories:
     - Évènements
 ---
+
+{{< admonition warning "Forum Grandes Écoles" >}}
+Cette page concerne le forum **de la filière MPI/MP2I**, destiné premièrement aux lycéens intéressés par la filière.
+Si vous êtes déjà en MP2I ou en MPI, les informations concernant le forum **des Grandes Écoles** sont disponibles sur [cette page](/posts/forum-grandes-ecoles-2025).
+{{< /admonition >}}
 
 {{< admonition info "Forum terminé" >}}
 Le forum 2025 est terminé ! Cette année, plus de 50 lycéens et parents d'élèves ont pu être informés grâce au forum ! {{< newline >}}
@@ -92,7 +92,7 @@ Vous trouverez ci-dessous les liens vers les différentes visioconférences :
 [Stand6]: <https://visio-agents.education.fr/meeting/signin/invite/437058/creator/96179/hash/910e3a0ec0e42d39f90342fd9012fc5c5baccba3> "Stand 6"
 
 {{< admonition question "Des questions ?" false >}}
-Vous pouvez poser vos questions sur le [Discord](https://discord.gg/Mu439mBdsv) ou par mail : [asso.mp2i.mpi@gmail.com](mailto:asso.mp2i.mpi@gmail.com)
+Vous pouvez poser vos questions sur le [Discord](https://discord.prepas-mp2i.fr/) ou par mail : [contact@prepas-mp2i.fr](mailto:contact@prepas-mp2i.fr)
 {{< /admonition >}}
 
 ## Intervenants
@@ -102,3 +102,7 @@ Cette année, déjà 17 prépas MP2I/MPI ont annoncé leur présence ! Vous trou
 | MP2I | MP2I | MPI | MP2I | Intégré (M1 Maths UFR) | Intégré (INSA Toulouse) | MPI | Intégrée (ENSG-Géomatique) | MP2I | MP2I | MP2I | MP2I | Intégré (Ulm) | Intégré (L3 PGE emlyon) | MP2I | MP2I | MPI | MP2I | MP2I | MP2I | MPI | MP2I | Intégré (ENS de Lyon) | Intégré (Ulm) | MPI | Intégré (ENSAI) | MP2I | MP2I | MP2I | MPI |
 |:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:---:|
 | {{< figure src="/images/intervenants/Ernest Montaigne.webp" title="Ernest" caption="Montaigne" >}} | {{< figure src="/images/intervenants/Samuel Hoche.webp" title="Samuel" caption="Hoche" >}} | {{< figure src="/images/intervenants/Antoine Descartes.webp" title="Antoine" caption="Descartes" >}} | {{< figure src="/images/intervenants/Thomas Champollion.webp" title="Thomas" caption="Champollion" >}} | {{< figure src="/images/intervenants/Médéric Victor Hugo.webp" title="Médéric" caption="Victor Hugo" >}} | {{< figure src="/images/intervenants/Alain Gay Lussac.webp" title="Alain" caption="Gay Lussac" >}} | {{< figure src="/images/intervenants/Charlie Claude-Fauriel.webp" title="Charlie" caption="Claude-Fauriel" >}} | {{< figure src="/images/intervenants/Emma Gay Lussac.webp" title="Emma" caption="Gay-Lussac" >}} | {{< figure src="/images/intervenants/Adrien Lesage.webp" title="Adrien" caption="Lesage" >}} | {{< figure src="/images/intervenants/unknown.webp" title="Eliott" caption="Lesage" >}} | {{< figure src="/images/intervenants/Albin Montaigne.webp" title="Albin" caption="Montaigne" >}} | {{< figure src="/images/intervenants/Léo Thiers.webp" title="Léo" caption="Thiers" >}} | {{< figure src="/images/intervenants/Paul Hoche.webp" title="Paul" caption="Hoche" >}} | {{< figure src="/images/intervenants/Jeremy CIV.gif" title="Jeremy" caption="Centre International de Valbonne" >}} | {{< figure src="/images/intervenants/Rehan La Martinière Monplaisir.webp" title="Rehan" caption="La Martinière Monplaisir" >}} | {{< figure src="/images/intervenants/Anaïs La Martinière Monplaisir.webp" title="Anaïs" caption="La Martinière Monplaisir" >}} | {{< figure src="/images/intervenants/unknown.webp" title="Killian" caption="Lesage" >}} | {{< figure src="/images/intervenants/unknown.webp" title="Noah" caption="Descartes" >}} | {{< figure src="/images/intervenants/unknown.webp" title="Paul" caption="Le Parc" >}} | {{< figure src="/images/intervenants/Cyril Saint Louis.webp" title="Cyril" caption="Saint-Louis" >}} | {{< figure src="/images/intervenants/unknown.webp" title="Valentin" caption="Saint-Louis" >}} | {{< figure src="/images/intervenants/Simon Saint Louis.webp" title="Simon" caption="Saint-Louis" >}} | {{< figure src="/images/intervenants/Bruno Janson de Sailly.webp" title="Bruno" caption="Janson de Sailly" >}} | {{< figure src="/images/intervenants/Clément Faidherbe.webp" title="Clément" caption="Faidherbe" >}} | {{< figure src="/images/intervenants/Gabrielle Clemenceau.webp" title="Gabrielle" caption="Clemenceau" >}} | {{< figure src="/images/intervenants/Maxime Champollion.webp" title="Maxime" caption="Champollion" >}} | {{< figure src="/images/intervenants/unknown.webp" title="Anaïs" caption="Le Parc" >}} | {{< figure src="/images/intervenants/unknown.webp" title="Delphine" caption="Le Parc" >}} | {{< figure src="/images/intervenants/unknown.webp" title="Astrid" caption="Le Parc" >}} | {{< figure src="/images/intervenants/Pierre Kleber.webp" title="Pierre" caption="Kleber" >}} |
+
+## Forums précédents
+
+Vous pouvez retrouver la liste de tous les forums et autres événements sur [cette page](/categories/%C3%A9v%C3%A8nements/).

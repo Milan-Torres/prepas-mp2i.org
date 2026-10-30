@@ -1,0 +1,75 @@
+---
+title: L'association des étudiants en CPGE MP2I/MPI
+url: /association
+date: 2024-05-04T18:00:00+01:00
+summary: Rejoignez l'association des Étudiants en Classes Préparatoires aux Grandes Écoles MP2I/MPI
+tags:
+    - préparationnaires
+menu:
+    main:
+        name: Association
+        weight: 7
+categories:
+    - Ressources
+---
+
+L'association des Étudiants en Classes Préparatoires aux Grandes Écoles MP2I/MPI est une association de loi 1901 à but non lucratif rassemblant de nombreux étudiants étant ou ayant été en classe préparatoires MP2I/MPI.
+
+## Objectifs
+
+Les objectifs de l'association sont :
+
+- De **mettre en relation** et de créer des liens de solidarité entre les différents élèves et anciens élèves de la filière
+- De **promouvoir la filière** auprès des élèves de lycées devant choisir leur orientation Post-BAC, en particulier avec l'organisation d'un forum annuel
+- De mettre en relation des étudiants en recherche d'emploi avec des entreprises
+- De **mettre à la disposition de tous une plateforme de discussion** sur Discord et **un site internet** en lien avec la filière
+
+## Adhérer
+
+L'association est ouverte à tous les étudiants actuels de CPGE MP2I et MPI, ainsi qu'aux anciens étudiants de CPGE MP2I et/ou MPI.
+
+{{< style "text-align:center; font-size: 1.5em; margin: 1em" >}}
+**[Adhérer à l'association](https://www.helloasso.com/associations/association-des-etudiants-en-classes-preparatoires-aux-grandes-ecoles-mp2i-mpi/adhesions/adhesion-annuelle-2026-2027)**
+{{< /style >}}
+
+{{< admonition info "Professeurs" true >}}
+Le titre de "Membre Honoraire" peut être accordé sur demande aux professeurs de classes de MP2I/MPI ou aux professeurs d'écoles accessibles aux étudiants de MP2I/MPI
+{{< /admonition >}}
+
+{{< admonition question "Un problème ?" true >}}
+Une question ? Un problème ? Vous pouvez nous contacter sur le [serveur Discord](https://discord.prepas-mp2i.fr) ou par mail [contact@prepas-mp2i.fr](mailto:contact@prepas-mp2i.fr)
+{{< /admonition >}}
+
+## Composition du conseil d'administration
+
+```goat
++---------------------------------------------------------------------------------------------------------+
+|                                                Le Bureau                                                |
+|                                                                                                         |
+|                                     +----------------------------+                                      |
+|                                     |         Président          |                                      |
+|                                     | Antoine C. (dani_leriston) |                                      |
+|                                     +--------------+-------------+                                      |
+|                                                    |                                                    |
+|            +-------------------------+-------------+-------------+-------------------------+            |
+|            |                         |                           |                         |            |
+|  +---------+--------+   +------------+------------+   +----------+----------+   +----------+---------+  |
+|  |  Vice-président  |   |      Vice-président     |   | Secrétaire générale |   |     Trésorier      |  |
+|  | Tristan (triw12) |   | Tom B. (Bobo - haerros) |   |    Nozaé (nozae)    |   | Jeremy (jejeworld) |  |
+|  +------------------+   +-------------------------+   +----------+----------+   +--------------------+  |
+|                                                                  |                                      |
++------------------------------------------------------------------+--------------------------------------+
+                                                                   |
+                        +------------------------------+-----------+---------------+
+                        |                              |                           |
+            +--------------+-------------+   +------------+-----------+   +-----------+-----------+
+            | Secrétaire spécialisé Site |   | Secrétaire spécialisée |   | Secrétaire spécialisé |
+            |   Alessandre (alessevan)   |   |       Marketing        |   |     Communication     |
+            +----------------------------+   |   Emma (lambdaniris)   |   |      Poste vacant     |
+                                             +------------------------+   +-----------------------+
+```
+
+## Documents relatifs à l'association
+
+- [Statuts](/documents/association/Statuts.pdf)
+- [Règlement intérieur](/documents/association/Reglement_interieur.pdf)

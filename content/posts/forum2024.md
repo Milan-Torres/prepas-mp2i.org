@@ -3,7 +3,7 @@ title: Forum 2024 des étudiants en MP2I/MPI
 slug: forum-2024
 date: 2024-01-23T20:42:00+01:00
 author: Alain PIALLAT, Adridri
-summary: Page de présentation du forum 2024. Vous y trouverez toutes les informations concernant le forum de la filière MPI-MP2I, édition 2024.
+summary: Le forum 2024 est terminé ! Cette année, plus de 200 lycéens et parents d'élèves ont été informés.
 tags:
     - lycéens
 categories:
@@ -84,7 +84,7 @@ Vous trouverez ci-dessous les liens vers les différentes visioconférences :
 
 [Stand5]: <https://visio-agents.education.fr/meeting/signin/303219/creator/96179/hash/d7b9d425e8a54507f126547052383e8bc8605088> "Stand 5"
 
-À vous de choisir le stand selon le planning ci-dessus, ils seront accessibles à partir de 14h. Si vous rencontrez un quelconque problème pour vous connecter [contactez-nous](https://prepas-mp2i.org/contact/) par Discord ou par mail.
+À vous de choisir le stand selon le planning ci-dessus, ils seront accessibles à partir de 14h. Si vous rencontrez un quelconque problème pour vous connecter [contactez-nous](https://prepas-mp2i.fr/contact/) par Discord ou par mail.
 
 ## Intervenants
 
@@ -93,3 +93,7 @@ Cette année, déjà 14 prépas MP2I/MPI ont annoncé leur présence ! Vous trou
 | MPI 5/2 | MP2I | MPI 5/2 | MPI 3/2 | PSI (ex MP2I) | MP2I | intégré (ULM) | MPI 3/2 | MPI 3/2 | MPI 5/2 | MPI 3/2 | MP2I | MPI 3/2 | MP2I | MPI 3/2 | MP2I | MP2I | intégré (Mines Paris) | MP2I | MPI 3/2 | MP2I | MPI 3/2 | MPI 3/2 | MP2I |
 |:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
 | {{< figure src="/images/intervenants/Maxime Champollion.webp" title="Maxime" caption="Champollion" >}} | {{< figure src="/images/intervenants/unknown.webp" title="Gabrielle" caption="Clémenceau" >}} | {{< figure src="/images/intervenants/Timothé Colbert.webp" title="Timothé" caption="Colbert" >}} | {{< figure src="/images/intervenants/Joachim Descartes.webp" title="Joachim" caption="Descartes" >}} | {{< figure src="/images/intervenants/unknown.webp" title="Leonard" caption="Descartes" >}} | {{< figure src="/images/intervenants/Pauline Descartes.webp" title="Pauline" caption="Descartes" >}} | {{< figure src="/images/intervenants/Clément Faidherbe.webp" title="Clément" caption="Faidherbe" >}} | {{< figure src="/images/intervenants/Tristan Fermat.webp" title="Tristan" caption="Fermat" >}} | {{< figure src="/images/intervenants/Antonin Fermat.webp" title="Antonin" caption="Fermat" >}} | {{< figure src="/images/intervenants/Alain Gay Lussac.webp" title="Alain" caption="Gay-Lussac" >}} | {{< figure src="/images/intervenants/Emma Gay Lussac.webp" title="Emma" caption="Gay-Lussac" >}} | {{< figure src="/images/intervenants/Pierre Kleber.webp" title="Pierre" caption="Kléber" >}} | {{< figure src="/images/intervenants/unknown.webp" title="Solène" caption="Le Parc" >}} | {{< figure src="/images/intervenants/Olivier Lycée du Parc.webp" title="Olivier" caption="Le Parc" >}} | {{< figure src="/images/intervenants/unknown.webp" title="Paul" caption="Les Lazaristes" >}} | {{< figure src="/images/intervenants/unknown.webp" title="Killian" caption="Lesage" >}} | {{< figure src="/images/intervenants/Idrisse Louis le Grand.webp" title="Idrisse" caption="Louis le Grand" >}} | {{< figure src="/images/intervenants/Nathan Saint Louis.webp" title="Nathan" caption="Saint-Louis" >}} | {{< figure src="/images/intervenants/Antoine Descartes.webp" title="Antoine" caption="Descartes" >}} | {{< figure src="/images/intervenants/Jeremy CIV.gif" title="Jeremy" caption="CIV" >}} | {{< figure src="/images/intervenants/unknown.webp" title="Paul" caption="Faidherbe" >}} | {{< figure src="/images/intervenants/unknown.webp" title="Victor" caption="Lesage" >}} | {{< figure src="/images/intervenants/unknown.webp" title="Romain" caption="CIV" >}} | {{< figure src="/images/intervenants/unknown.webp" title="Félix" caption="Clémenceau" >}} |
+
+## Forums précédents
+
+Vous pouvez retrouver la liste de tous les forums et autres événements sur [cette page](/categories/%C3%A9v%C3%A8nements/).

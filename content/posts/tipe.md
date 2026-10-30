@@ -28,7 +28,7 @@ Le TIPE (ou **Travail d'Initiative Personnelle Encadré**) est un travail à eff
 
 {{< figure
     caption="Graphique de présentation du TIPE sur SCEI"
-    src="/images/forum/TIPE_Graphique.webp"
+    src="/images/TIPE_Graphique.webp"
     link="/documents/TIPE_Graphique.pdf"
     class="invert"
 >}}
@@ -124,19 +124,47 @@ Quelques conseils supplémentaires pour votre présentation :
 Les exemples présentés ici sont de vrais  TIPE d'étudiants en MPI. Les droits leurs sont réservés : merci de ne pas réutiliser ou plagier leurs travaux.
 {{< /admonition >}}
 
+*Proposez-nous le vôtre par [mail](mailto:contact@prepas-mp2i.fr) ou sur notre [discord](https://discord.prepas-mp2i.fr/) !*
+
+### 2026 : Cycles, boucles
+
+#### Tétraconcours
+
+| Titre | Étudiant.e | Présentation | MCOT | Notes |
+| :---: | :--------: | :----------: | :--: | :----: |
+| Du Rubik’s Cube au Square-1 Structure combinatoire et Recherche du nombre de Dieu | Rémi Chandon | [![TIPE_Remi_Chandon.pdf](/icons/gallery.ico)](/documents/TIPE/2026/TIPE_Remi_Chandon.pdf) | [![MCOT_Remi_Chandon.pdf](/icons/document.ico)](/documents/TIPE/2026/MCOT_Remi_Chandon.pdf) | - |
+| Apprentissage en ligne pour l'exploitation d'une machine sous information partielle | Rehan | [![TIPE_Rehan.pdf](/icons/gallery.ico)](/documents/TIPE/2026/TIPE_Rehan.pdf) | [![MCOT_Rehan.pdf](/icons/document.ico)](/documents/TIPE/2026/MCOT_Rehan.pdf) | - |
+| Problème d'allocation de registres | SachiKumo | [![TIPE_SachiKumo.pdf](/icons/gallery.ico)](/documents/TIPE/2026/TIPE_SachiKumo.pdf) | [![MCOT_SachiKumo.pdf](/icons/document.ico)](/documents/TIPE/2026/MCOT_SachiKumo.pdf) | - |
+
 ### 2025 : Transition, transformation, conversion
 
-*Exemples disponibles à l'été 2025*
+Le thème de l'année 2025 est vaste et peut être abordé de nombreuses façons différentes. Originalité et créativité sont de mise !
+
+#### Tétraconcours
+
+| Titre | Étudiant.e | Présentation | MCOT | Notes |
+| :---: | :--------: | :----------: | :--: | :----: |
+| Traitement d'image et Analyse comportementale d'Agents dans différents Environnements | Arthur BOIT | [![TIPE_Arthur_Boit.pdf](/icons/gallery.ico)](/documents/TIPE/2025/TIPE_Arthur_Boit.pdf) | [![MCOT_Arthur_Boit.pdf](/icons/document.ico)](/documents/TIPE/2025/MCOT_Arthur_Boit.pdf) | [Github](https://github.com/voXrey/canny-and-crowd) |
+| Procédure de primitivation de fonctions rationnelles et logarithmiques | Arthur S. (@eragonaelda) | [![TIPE_Eragonaelda.pdf](/icons/gallery.ico)](/documents/TIPE/2025/TIPE_Eragonaelda.pdf) | [![MCOT_Eragonaelda.pdf](/icons/document.ico)](/documents/TIPE/2025/MCOT_Eragonaelda.pdf) | - |
+| Preuves de correction automatiques des programmes | @yuesubi | [![TIPE_Yuesubi.pdf](/icons/gallery.ico)](/documents/TIPE/2025/TIPE_Yuesubi.pdf) | [![MCOT_Yuesubi.pdf](/icons/document.ico)](/documents/TIPE/2025/MCOT_Yuesubi.pdf) | [GitLab](https://gitlab.com/yuesubi-mp2i/tipe) |
+| Ferromagnétisme et Nano-électronique : Exploration des Systèmes de Mémoire | Pierre LAVERGNE & Erwan CHAMPMARTIN | [![TIPE_Pierre_Lavergne_Erwan_Champmartin.pdf](/icons/gallery.ico)](/documents/TIPE/2025/TIPE_Pierre_Lavergne_Erwan_Champmartin.pdf) | [![MCOT_Pierre_Lavergne_Erwan_Champmartin.pdf](/icons/document.ico)](/documents/TIPE/2025/MCOT_Pierre_Lavergne_Erwan_Champmartin.pdf) | [Script oral](/documents/TIPE/2025/Script_Oral_Pierre_Lavergne.txt) (P.L.) |
+
+#### ENS
+
+| Titre | Étudiant.e | Rapport | Notes |
+| :---: | :--------: | :-----: | :------: |
+| Dissertation sur les polynômes cyclotomiques | Ayman Chabab | [![TIPEENS_Ayman_Chabab.pdf](/icons/document.ico)](/documents/TIPE/2025/TIPEENS_Ayman_Chabab.pdf) | - |
+| Équivalence théorique entre programmation fonctionelle et impérative | Maya HAYMAN | [![TIPEENS_Maya_Hayman.pdf](/icons/document.ico)](/documents/TIPE/2025/TIPEENS_Maya_Hayman.pdf) | [GitHub](https://github.com/iWaroz/Magma) |
+| Métaprogrammation dans un langage à 2 niveaux | @zowepsilon | [![TIPEENS_zowepsilon.pdf](/icons/document.ico)](/documents/TIPE/2025/TIPEENS_zowepsilon.pdf) | [GitHub](https://github.com/zowepsilon/strati) • Présentation : [![TIPEENS2_Zowepsilon.pdf](/icons/gallery.ico)](/documents/TIPE/2025/TIPEENS2_Zowepsilon.pdf) |
+| L'équation d'Euler-Lagrange, étude et applications | Valentin MOGUÉROU (@argsinh) | [![TIPEENS_Valentin_Moguerou.pdf](/icons/document.ico)](/documents/TIPE/2025/TIPEENS_Valentin_Moguerou.pdf) | Erreurs mineures, voir annotations |
 
 ### 2024 : Jeux, sports
 
 Un thème en adéquation avec l'actualité : les fameux Jeux Olympiques d'été à Paris !
 
-*Proposez-nous le vôtre par [mail](mailto:asso.mp2i.mpi@gmail.com) ou sur notre [discord](https://discord.gg/Mu439mBdsv) !*
-
 #### Tétraconcours
 
-| Titre | Étudiant.e | Présentation | MCOT | Autres |
+| Titre | Étudiant.e | Présentation | MCOT | Notes |
 |:-----:|:--------:|:------------:|:----:|:------:|
 | Optimisation de la trajectoire idéale sur un circuit de sport automobile | Alois DENOISEUX | [![TIPE_Alois_Denoiseux.pdf](/icons/gallery.ico)](/documents/TIPE/2024/TIPE_Alois_Denoiseux.pdf)[^1] | [![MCOT_Alois_Denoiseux.pdf](/icons/document.ico)](/documents/TIPE/2024/MCOT_Alois_Denoiseux.pdf) | [Github](https://github.com/Al0den/car-neural-network) |
 | Génération de trajectoires automobiles sur circuit | Pierre GUEGUEN | [![TIPE_Pierre_Gueguen.pdf](/icons/gallery.ico)](/documents/TIPE/2024/TIPE_Pierre_Gueguen.pdf) | [![MCOT_Pierre_Gueguen.pdf](/icons/document.ico)](/documents/TIPE/2024/MCOT_Pierre_Gueguen.pdf) | - |
@@ -146,7 +174,7 @@ Un thème en adéquation avec l'actualité : les fameux Jeux Olympiques d'été 
 
 #### ENS
 
-| Titre | Étudiant.e | Rapport | Remarque |
+| Titre | Étudiant.e | Rapport | Notes |
 |:-----:|:----------:|:-------:|:--------:|
 | Le lemme local de Lovasz, version algorithmique | Alice TOSEL | [![TIPEENS_Alice_Tosel.pdf](/icons/document.ico)](/documents/TIPE/2024/TIPEENS_Alice_Tosel.pdf) | Erreurs mineures dans des schémas et une définition |
 | Le Théorème de Szemerédi–Trotter et les jeux Constructeur-Destructeur | Paul RAPHAEL | [![TIPEENS_Paul_Raphael.pdf](/icons/document.ico)](/documents/TIPE/2024/TIPEENS_Paul_Raphael.pdf) | - |
@@ -157,14 +185,14 @@ Pour la première promotion de la filière, le thème était une porte grande ou
 
 #### Tétraconcours
 
-| Titre | Étudiant.e | Présentation | MCOT | Autres |
+| Titre | Étudiant.e | Présentation | MCOT | Notes |
 |:-----:|:--------:|:------------:|:----:|:------:|
 | Conception d'un protocole adapté aux objets connectés dans un réseau dense | Timothée | [![TIPE_Thimothée.pdf](/icons/gallery.ico)](/documents/TIPE/2023/TIPE_Timothée.pdf) | [![MCOT_Thimothée.pdf](/icons/document.ico)](/documents/TIPE/2023/MCOT_Timothée.pdf) | [Annexes](/documents/TIPE/2023/Annexes_Timothée.pdf) |
 | Attaques par canaux auxiliaires | Maël HOSTETTLER | [![TIPE_Mael_Hostettler.pdf](/icons/gallery.ico)](/documents/TIPE/2023/TIPE_Mael_Hostettler.pdf) | [![MCOT_Mael_Hostettler.pdf](/icons/document.ico)](/documents/TIPE/2023/MCOT_Mael_Hostettler.pdf) | - |
 | Attaques sur RSA | @lasercata |[![TIPE_lasercata.pdf](/icons/gallery.ico)](/documents/TIPE/2023/TIPE_lasercata.pdf) | [![MCOT_lasercata.pdf](/icons/document.ico)](/documents/TIPE/2023/MCOT_lasercata.pdf)| [GitHub](https://github.com/lasercata/RSA_attacks_TIPE) |
 | Aquaplaning et Pneumatiques Slicks | Aubin SIONVILLE | [![TIPE_Aubin_Sionville.pdf](/icons/gallery.ico)](/documents/TIPE/2023/TIPE_Aubin_Sionville.pdf) | [![MCOT_Aubin_Sionville.pdf](/icons/document.ico)](/documents/TIPE/2023/MCOT_Aubin_Sionville.pdf) | - |
 | Optimisation d'une livraison de colis par biomimétisme | Eliot CLERC | [![TIPE_Eliot_Clerc.pdf](/icons/gallery.ico)](/documents/TIPE/2023/TIPE_Eliot_Clerc.pdf) | [![MCOT_Eliot_Clerc.pdf](/icons/document.ico)](/documents/TIPE/2023/MCOT_Eliot_Clerc.pdf) | - |
-| Comment optimiser la tournée d’un livreur ? | @Axiome | [![TIPE_Axiome.pdf](/icons/gallery.ico)](/documents/TIPE/2023/TIPE_Axiome.pdf) | [![MCOT_Axiome.pdf](/icons/document.ico)](/documents/TIPE/2023/MCOT_Axiome.pdf) | TIPE ENS disponible |
+| Comment optimiser la tournée d’un livreur ? | @axiome | [![TIPE_Axiome.pdf](/icons/gallery.ico)](/documents/TIPE/2023/TIPE_Axiome.pdf) | [![MCOT_Axiome.pdf](/icons/document.ico)](/documents/TIPE/2023/MCOT_Axiome.pdf) | TIPE ENS disponible |
 | Distribution optimale et maximale de biens à livrer au sein d’une ville | Seydou SENE | [![TIPE_Seydou_Sene.pdf](/icons/gallery.ico)](/documents/TIPE/2023/TIPE_Seydou_Sene.pdf) | [![MCOT_Seydou_Sene.pdf](/icons/document.ico)](/documents/TIPE/2023/MCOT_Seydou_Sene.pdf) | [^2] |
 | Accélération du ray-tracing avec des Bounding Volume Hierarchies | Alaric | [![TIPE_Alaric.pdf](/icons/gallery.ico)](/documents/TIPE/2023/TIPE_Alaric.pdf) | [![MCOT_Alaric.pdf](/icons/document.ico)](/documents/TIPE/2023/MCOT_Alaric.pdf) | [GitHub](https://github.com/ala89/ray-tracer) |
 | L'impact des phénomènes physiques dans la cybersécurité | Flavio | [![TIPE_Flavio.pdf](/icons/gallery.ico)](/documents/TIPE/2023/TIPE_Flavio.pdf) | [![MCOT_Flavio.pdf](/icons/document.ico)](/documents/TIPE/2023/MCOT_Flavio.pdf) | - |
@@ -179,7 +207,7 @@ Pour la première promotion de la filière, le thème était une porte grande ou
 |:-----:|:----------:|:-------:|
 | Utilisation de l’algorithme de Kuhn pour l’attribution de logements étudiants | Carole VACHERAND | [![TIPEENS_Carole.pdf](/icons/document.ico)](/documents/TIPE/2023/TIPEENS_Carole.pdf) |
 | Modélisation du phénomène d’îlot de chaleur urbain | Alexis FARGEAT | [![TIPEENS_Alexis.pdf](/icons/document.ico)](/documents/TIPE/2023/TIPEENS_Alexis.pdf) |
-| Optimisation de la tournée d’un livreur grâce à un algorithme génétique | @Axiome | [![TIPEENS_Axiome.pdf](/icons/document.ico)](/documents/TIPE/2023/TIPEENS_Axiome.pdf) |
+| Optimisation de la tournée d’un livreur grâce à un algorithme génétique | @axiome | [![TIPEENS_Axiome.pdf](/icons/document.ico)](/documents/TIPE/2023/TIPEENS_Axiome.pdf) |
 | Comment les modélisations peuvent-elles nous permettre de réduire les risques de mouvement de foule ou de foule compacte ? | Leïla IKSIL | [![TIPEENS_Leila.pdf](/icons/document.ico)](/documents/TIPE/2023/TIPEENS_Leila.pdf) |
 
 [^1]: ERRATUM : Slide 7, la force aérodynamqiue doit être vers le sol
